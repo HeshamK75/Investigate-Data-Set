@@ -1,0 +1,160 @@
+,country,population,life_expectancy,gdp_per_capita,region
+0,Afghanistan,10.6,30.6,1490,Asia
+1,Albania,0.949,35.4,1530,Europe
+2,Algeria,5.75,29.6,2360,Africa
+3,Angola,2.88,30.4,1250,Africa
+4,Antigua and Barbuda,0.0298,33.9,1680,Americas
+5,Argentina,8.83,49.9,6100,Americas
+6,Armenia,1.01,27.0,531,Asia
+7,Australia,5.27,60.6,8660,Oceania
+8,Austria,6.49,50.3,4180,Europe
+9,Azerbaijan,2.2,29.4,721,Asia
+10,Bahamas,0.0585,35.0,3480,Americas
+11,Bahrain,0.116,30.8,2730,Asia
+12,Bangladesh,27.3,23.0,1060,Asia
+13,Barbados,0.159,33.2,1900,Americas
+14,Belarus,5.9,30.2,585,Europe
+15,Belgium,7.57,53.7,6500,Europe
+16,Belize,0.0465,32.4,1210,Americas
+17,Benin,1.42,32.7,985,Africa
+18,Bhutan,0.259,33.4,769,Asia
+19,Bosnia and Herzegovina,2.11,35.5,1140,Europe
+20,Botswana,0.227,33.9,658,Africa
+21,Brazil,27.6,32.4,1610,Americas
+22,Bulgaria,5.09,44.4,1760,Europe
+23,Burkina Faso,2.86,31.2,538,Africa
+24,Burundi,1.46,32.0,467,Africa
+25,Cambodia,2.93,36.4,447,Asia
+26,Cameroon,2.83,30.3,1050,Africa
+27,Canada,8.57,56.6,6530,Americas
+28,Central African Republic,0.893,31.9,754,Africa
+29,Chad,1.68,33.9,737,Africa
+30,Chile,4.03,32.1,3710,Americas
+31,China,472.0,32.0,792,Asia
+32,Colombia,6.39,33.3,1700,Americas
+33,Comoros,0.127,33.1,786,Africa
+34,Costa Rica,0.458,35.6,2510,Americas
+35,Croatia,2.97,36.1,3240,Europe
+36,Cuba,3.07,38.0,3460,Americas
+37,Cyprus,0.31,47.5,2740,Asia
+38,Denmark,3.24,57.5,7170,Europe
+39,Djibouti,0.0444,32.8,1320,Africa
+40,Dominican Republic,0.89,31.8,1230,Americas
+41,Ecuador,1.84,34.5,1940,Americas
+42,Egypt,12.3,32.6,2870,Africa
+43,El Salvador,1.32,29.5,2060,Americas
+44,Equatorial Guinea,0.117,31.5,650,Africa
+45,Eritrea,0.591,31.0,699,Africa
+46,Estonia,1.1,46.3,1760,Europe
+47,Eswatini,0.15,33.4,853,Africa
+48,Ethiopia,17.9,29.7,547,Africa
+49,Fiji,0.157,27.6,1280,Oceania
+50,Finland,3.13,47.5,2990,Europe
+51,France,38.5,51.7,5310,Europe
+52,Gabon,0.321,32.5,1070,Africa
+53,Gambia,0.192,34.8,896,Africa
+54,Georgia,2.67,36.3,520,Asia
+55,Germany,62.4,53.6,5650,Europe
+56,Ghana,3.15,29.8,1570,Africa
+57,Greece,5.77,45.6,2760,Europe
+58,Grenada,0.0662,37.9,1470,Americas
+59,Guatemala,1.67,25.2,1940,Americas
+60,Guinea,1.86,34.3,554,Africa
+61,Guinea-Bissau,0.339,30.5,616,Africa
+62,Guyana,0.288,35.0,2530,Americas
+63,Haiti,2.2,28.6,1760,Americas
+64,Honduras,0.779,35.9,2310,Americas
+65,Hungary,7.94,42.0,4160,Europe
+66,Iceland,0.0975,54.6,2510,Europe
+67,India,317.0,24.9,845,Asia
+68,Indonesia,47.3,30.5,1550,Asia
+69,Iraq,3.5,31.8,6190,Asia
+70,Ireland,4.2,56.2,5170,Europe
+71,Israel,0.446,32.0,1030,Asia
+72,Italy,37.1,45.5,4390,Europe
+73,Jamaica,0.87,35.7,1260,Americas
+74,Japan,55.3,42.2,2670,Asia
+75,Jordan,0.216,32.0,2270,Asia
+76,Kazakhstan,5.0,19.3,1190,Asia
+77,Kenya,3.75,27.0,1380,Africa
+78,Kiribati,0.0283,25.8,743,Oceania
+79,Kuwait,0.114,26.6,2350,Asia
+80,Latvia,1.86,47.8,1410,Europe
+81,Lebanon,0.761,30.1,5140,Asia
+82,Lesotho,0.39,35.1,376,Africa
+83,Liberia,0.584,34.1,1050,Africa
+84,Libya,0.676,35.8,2730,Africa
+85,Lithuania,2.29,43.0,2390,Europe
+86,Luxembourg,0.269,54.9,5730,Europe
+87,Madagascar,2.58,32.5,1030,Africa
+88,Malawi,1.87,31.3,356,Africa
+89,Malaysia,3.35,30.6,2060,Asia
+90,Maldives,0.0648,31.4,1090,Asia
+91,Mali,3.05,29.4,625,Africa
+92,Malta,0.227,51.3,1960,Europe
+93,Mauritania,0.409,33.6,861,Africa
+94,Mauritius,0.382,30.7,1610,Africa
+95,Mexico,14.8,31.9,3040,Americas
+96,Mongolia,0.731,31.2,1160,Asia
+97,Montenegro,0.475,35.9,2540,Europe
+98,Morocco,5.8,33.8,1330,Africa
+99,Mozambique,3.78,33.3,419,Africa
+100,Myanmar,12.0,29.2,862,Asia
+101,Namibia,0.283,34.2,2410,Africa
+102,Nepal,5.41,35.5,830,Asia
+103,Netherlands,6.8,57.9,7590,Europe
+104,New Zealand,1.24,56.3,9290,Oceania
+105,Nicaragua,0.749,25.3,2910,Americas
+106,Niger,1.64,33.7,735,Africa
+107,Nigeria,23.3,36.0,1530,Africa
+108,North Macedonia,0.963,36.8,1660,Europe
+109,Norway,2.63,58.8,8960,Europe
+110,Oman,0.42,32.0,1770,Asia
+111,Pakistan,21.7,26.2,1230,Asia
+112,Panama,0.459,34.8,2590,Americas
+113,Papua New Guinea,0.72,33.7,784,Oceania
+114,Paraguay,0.699,36.5,2750,Americas
+115,Peru,4.76,33.9,2070,Americas
+116,Philippines,9.4,31.6,2420,Asia
+117,Poland,23.8,46.5,3690,Europe
+118,Portugal,6.05,35.6,2130,Europe
+119,Qatar,0.0188,29.9,2300,Asia
+120,Romania,12.3,35.8,905,Europe
+121,Rwanda,1.38,32.7,502,Africa
+122,Samoa,0.037,28.2,2100,Oceania
+123,Sao Tome and Principe,0.0564,31.7,1060,Africa
+124,Saudi Arabia,2.36,35.6,3690,Asia
+125,Senegal,1.56,28.1,904,Africa
+126,Serbia,3.62,35.7,3260,Europe
+127,Seychelles,0.0272,50.5,1600,Africa
+128,Sierra Leone,1.29,28.9,1170,Africa
+129,Singapore,0.392,34.3,2440,Asia
+130,Slovenia,1.13,36.3,3380,Europe
+131,Solomon Islands,0.123,25.2,568,Oceania
+132,Somalia,1.63,32.4,809,Africa
+133,South Africa,7.49,35.1,2850,Africa
+134,South Sudan,2.16,31.5,916,Africa
+135,Spain,21.3,39.2,3840,Europe
+136,Sri Lanka,5.52,30.9,1590,Asia
+137,Sudan,4.99,31.5,936,Africa
+138,Suriname,0.137,32.9,3410,Americas
+139,Sweden,5.87,58.8,5080,Europe
+140,Switzerland,3.85,54.5,15300,Europe
+141,Tajikistan,1.15,16.7,525,Asia
+142,Thailand,10.1,31.1,1140,Asia
+143,Timor-Leste,0.372,31.2,660,Asia
+144,Togo,0.879,33.1,1070,Africa
+145,Tonga,0.0258,28.8,993,Oceania
+146,Trinidad and Tobago,0.394,39.1,2380,Americas
+147,Tunisia,2.34,30.8,1540,Africa
+148,Turkey,14.1,30.0,1110,Asia
+149,Turkmenistan,0.91,15.2,981,Asia
+150,Uganda,3.19,25.3,738,Africa
+151,Ukraine,28.3,27.8,794,Europe
+152,United Arab Emirates,0.0531,31.3,2090,Asia
+153,Uruguay,1.4,32.9,3520,Americas
+154,Uzbekistan,4.7,19.9,550,Asia
+155,Vanuatu,0.0547,25.5,875,Oceania
+156,Yemen,3.49,23.6,1230,Asia
+157,Zambia,1.46,34.2,1090,Africa
+158,Zimbabwe,1.5,34.3,1000,Africa
