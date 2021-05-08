@@ -2,6 +2,7 @@
 in this project we will investigate data set that download from [gapminder](www.gapminder.com)
 Gapminder identifies systematic misconceptions about important global trends and proportions and uses reliable data to develop easy to understand teaching materials to rid people of their misconceptions. Gapminder is an independent Swedish foundation with no political, religious, or economic affiliations.
 
+![alt text](https://github.com/HeshamK75/Investigate-Data-Set/blob/main/Life_Exp.png)
 Data set that investigated includes 3 main indicators and they are 
 * Life Expectancy
 * Population
@@ -19,3 +20,6 @@ And asked 2 main questions to be answered.
 * Python and it's libraries (pandas, numpy, matplotlib, seaborn, sqlite3)
 ## Resources
 Pandas, Seaborn and MatPlotLib doccumentations.
+
+
+This analysis is inspired from the Great [Hans Rosling](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen)
